@@ -9,7 +9,7 @@
 //                                Adding tasks, constructions and artefact  by: Armando             //
 //                                Modified , added , fixed , implementd  by: Shadow and ronix       //
 //////////////////////////////////////////////////////////////////////////////////////////////////////
-									//                         //
+									//         -Test-          //
 									//         French          //
 									// Author: TiSmA - Mickou  //
 									/////////////////////////////
