@@ -95,7 +95,7 @@ define("B3","Iron Mine");
 define("B3_DESC","Here miners produce the precious resource iron. By increasing the mine`s level you increase its iron production.");
 define("B4","Cropland");
 define("B4_DESC","Your population`s food is produced here. By increasing the farm`s level you increase its crop production.");
-
+ 
 //DORF1
 define("LUMBER","Lumber");
 define("CLAY","Clay");
