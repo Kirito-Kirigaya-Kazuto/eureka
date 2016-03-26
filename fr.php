@@ -31,7 +31,7 @@ define("PROFILE","Profil");
 define("SUPPORT","Support");
 define("UPDATE_T_10","Mise à jour Top 10");
 define("SYSTEM_MESSAGE","Message système");
-define("TRAVIAN_PLUS","Travian <b><span class=\"plus_g\">P</span><span class=\"plus_o\">l</span><span class=\"plus_g\">u</span><span class=\"plus_o\">s</span></span></span></b>");
+#define("TRAVIAN_PLUS","Travian <b><span class=\"plus_g\">P</span><span class=\"plus_o\">l</span><span class=\"plus_g\">u</span><span class=\"plus_o\">s</span></span></span></b>");
 define("CONTACT","Contactez nous!");
 define("GAME_RULES","Règle du jeu");
 
@@ -77,19 +77,19 @@ define("NAME_NO_EXIST","Il n'y a pas d'utilisateur avec ce nom ");
 define("ID_NO_EXIST","Il n'y a pas d'utilisateur avec l'id ");
 define("SAME_NAME","Vous ne pouvez pas vous inviter vous même");
 define("ALREADY_INVITED"," déjà invité");
-define("ALREADY_IN_ALLY"," already in this alliance");
+define("ALREADY_IN_ALLY"," déjà dans cette alliance");
 
 //COPYRIGHT
 define("TRAVIAN_COPYRIGHT","TravianZ 100% Open Source Travian Clone.");
 
 //BUILD.TPL
-define("CUR_PROD","Current production");
-define("NEXT_PROD","Production at level ");
+define("CUR_PROD","Version actuelle ");
+define("NEXT_PROD","Prochaine version ");
 
 //BUILDINGS
-define("B1","Woodcutter");
+define("B1","Bûcheron");
 define("B1_DESC","The Woodcutter cuts down trees in order to produce lumber. The further you extend the woodcutter the more lumber is produced by him.");
-define("B2","Clay Pit");
+#define("B2","Clay Pit");
 define("B2_DESC","Clay is produced here. By increasing its level you increase its clay production.");
 define("B3","Iron Mine");
 define("B3_DESC","Here miners produce the precious resource iron. By increasing the mine`s level you increase its iron production.");
