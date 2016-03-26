@@ -10,9 +10,8 @@
 //                                Modified , added , fixed , implementd  by: Shadow and ronix       //
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 									//                         //
-									//         ENGLISH         //
-									//      Author: Dzoki      //
-									//     Adding: Armando     //
+									//         French          //
+									// Author: TiSmA - Mickou  //
 									/////////////////////////////
 
 //MAIN MENU
